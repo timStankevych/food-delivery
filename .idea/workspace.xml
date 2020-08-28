@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d09292a-169f-404e-959e-531464f04847" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/contacts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/author-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/awards/blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/awards/green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/awards/grey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/awards/orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/awards/red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/content/Layer 232.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/content/Layer 233.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/content/Layer 234.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/content/Layer 235.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/content/avatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/content/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/content/basket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/content/message.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/content/mini.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/content/product-item.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/images/content/product-item.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/content/product.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/content/tutorial.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/content/user-login.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/content/user.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/content/.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/page-404.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/pro-bar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/search-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/scss/_global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/_global.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/scss/_media.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/_media.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/settings.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/upload.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/withdrawals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazkurs" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gipDk5odStoASjKH861gXYBPF7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d09292a-169f-404e-959e-531464f04847" name="Default Changelist" comment="" />
+      <created>1598607149625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598607149625</updated>
+      <workItem from="1598607150806" duration="339000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
