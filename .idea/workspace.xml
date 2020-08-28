@@ -17,12 +17,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d09292a-169f-404e-959e-531464f04847" name="Default Changelist" comment="change menu2">
-      <change beforePath="$PROJECT_DIR$/app/123.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -106,7 +114,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598607149625</updated>
       <workItem from="1598607150806" duration="339000" />
-      <workItem from="1598608847413" duration="1721000" />
+      <workItem from="1598608847413" duration="2593000" />
     </task>
     <task id="LOCAL-00001" summary="change menu">
       <created>1598609674447</created>
