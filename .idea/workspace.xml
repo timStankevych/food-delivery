@@ -17,7 +17,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d09292a-169f-404e-959e-531464f04847" name="Default Changelist" comment="change menu2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/123.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
@@ -105,7 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598607149625</updated>
       <workItem from="1598607150806" duration="339000" />
-      <workItem from="1598608847413" duration="1410000" />
+      <workItem from="1598608847413" duration="1721000" />
     </task>
     <task id="LOCAL-00001" summary="change menu">
       <created>1598609674447</created>
