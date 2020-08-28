@@ -1,45 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:dev" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2d09292a-169f-404e-959e-531464f04847" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/contacts.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/author-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/awards/blue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/awards/green.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/awards/grey.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/awards/orange.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/awards/red.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/content/Layer 232.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/content/Layer 233.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/content/Layer 234.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/content/Layer 235.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/content/avatar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/content/banner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/content/basket.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/content/message.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/content/mini.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/content/product-item.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/images/content/product-item.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/content/product.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/content/tutorial.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/content/user-login.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/content/user.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/content/.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/page-404.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/pro-bar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/search-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/profile.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/scss/_global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/_global.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/scss/_media.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/_media.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/settings.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/upload.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/withdrawals.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/magazkurs" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +26,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1gipDk5odStoASjKH861gXYBPF7" />
@@ -58,7 +42,60 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="default" type="js.build_tools.gulp" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>default</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="html" type="js.build_tools.gulp" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>html</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="scss" type="js.build_tools.gulp" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>scss</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gulp.js.default" />
+        <item itemvalue="Gulp.js.html" />
+        <item itemvalue="Gulp.js.scss" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -69,6 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598607149625</updated>
       <workItem from="1598607150806" duration="339000" />
+      <workItem from="1598608847413" duration="792000" />
     </task>
     <servers />
   </component>
@@ -80,10 +118,54 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="dev" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1862" height="926" key="DiffContextDialog" timestamp="1598609313576">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="93" y="93" width="1862" height="926" key="DiffContextDialog/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1598609313576" />
+    <state width="2027" height="305" key="GridCell.Tab.0.bottom" timestamp="1598609032334">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="305" key="GridCell.Tab.0.bottom/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1598609032334" />
+    <state width="2027" height="305" key="GridCell.Tab.0.center" timestamp="1598609032334">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="305" key="GridCell.Tab.0.center/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1598609032334" />
+    <state width="2027" height="305" key="GridCell.Tab.0.left" timestamp="1598609032334">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="305" key="GridCell.Tab.0.left/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1598609032334" />
+    <state width="2027" height="305" key="GridCell.Tab.0.right" timestamp="1598609032334">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="305" key="GridCell.Tab.0.right/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1598609032334" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1598609469788">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1598609469788" />
   </component>
 </project>
