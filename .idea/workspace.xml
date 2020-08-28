@@ -16,9 +16,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d09292a-169f-404e-959e-531464f04847" name="Default Changelist" comment="">
+    <list default="true" id="2d09292a-169f-404e-959e-531464f04847" name="Default Changelist" comment="change menu2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,8 +105,23 @@
       <option name="presentableId" value="Default" />
       <updated>1598607149625</updated>
       <workItem from="1598607150806" duration="339000" />
-      <workItem from="1598608847413" duration="792000" />
+      <workItem from="1598608847413" duration="1410000" />
     </task>
+    <task id="LOCAL-00001" summary="change menu">
+      <created>1598609674447</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598609674447</updated>
+    </task>
+    <task id="LOCAL-00002" summary="change menu2">
+      <created>1598610135658</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598610135658</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +156,11 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change menu" />
+    <MESSAGE value="change menu2" />
+    <option name="LAST_COMMIT_MESSAGE" value="change menu2" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="93" y="93" width="1862" height="926" key="DiffContextDialog" timestamp="1598609313576">
       <screen x="0" y="0" width="2048" height="1112" />
@@ -163,9 +182,13 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="2027" height="305" key="GridCell.Tab.0.right/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1598609032334" />
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1598609469788">
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1598609746240">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1598609469788" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1598609746240" />
+    <state x="93" y="93" width="1862" height="926" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1598610257232">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="93" y="93" width="1862" height="926" key="com.intellij.history.integration.ui.views.FileHistoryDialog/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1598610257232" />
   </component>
 </project>
