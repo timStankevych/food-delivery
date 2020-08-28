@@ -6,5 +6,5 @@
 node_modules
 gulpfile.js
 /app/scss
-
+/.idea
 
